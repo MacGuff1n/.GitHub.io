@@ -13,12 +13,12 @@ owner:
   bio: "Obey or Die" # 填写作者信息：博客描述
 
 # Data
-gavatar: img275064025.png # 浏览器地址栏小图标，可自定义更改
-favicon: img275064025.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 bangumi_username: a275064025
 douban_username:  # 你的豆瓣id
-twitter_username: @Oresama_Hanyi
+twitter_username: Oresama_Hanyi
 github_username: MacGuff1n
 
 # Build settings  
