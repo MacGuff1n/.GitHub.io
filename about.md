@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "Hi, 这里是Lee, 一位动画系学生 " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+记录平时的所见所闻 以及……一些自己的idea。
 
 
 
